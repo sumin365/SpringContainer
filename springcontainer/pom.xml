@@ -3,4 +3,15 @@
   <groupId>com.example</groupId>
   <artifactId>springcontainer</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+ <!-- 의존성 -->
+ <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+  <!-- Spring Context -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>4.3.30.RELEASE</version>
+</dependency>
+  </dependencies>
 </project>
